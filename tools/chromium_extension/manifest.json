@@ -6,7 +6,7 @@
   "content_scripts": [
     {
       "matches": [
-        "*://*/shimohq/chinese-programmer-wrong-pronunciation/*",
+        "*://*/*/chinese-programmer-wrong-pronunciation/*",
         "*://*/jingjingxyk/chinese-programmer-wrong-pronunciation/*"
       ],
       "run_at": "document_idle",
