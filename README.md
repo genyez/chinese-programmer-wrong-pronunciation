@@ -2,7 +2,7 @@
 
 | 单词 | 正确发音（英音）| 正确发音（美音）| 备注 |
 | --- | ----------- | ----------- | ----------- |
-| avatar | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=1)  /'ækses/ | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=2)  /ˈækses/ |  |
+| avatar | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=1)   | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=2)   |  |
 | schedule | [🔊](https://dict.youdao.com/dictvoice?audio=schedule&type=1) | [🔊](https://dict.youdao.com/dictvoice?audio=schedule&type=2)  |  |
 | threshold | [🔊](https://dict.youdao.com/dictvoice?audio=threshold&type=1) | [🔊](https://dict.youdao.com/dictvoice?audio=threshold&type=2)  |  |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  |
