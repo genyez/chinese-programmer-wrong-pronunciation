@@ -5,9 +5,7 @@
 | avatar | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=1)   | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=2)   |  |
 | asset | [🔊](https://dict.youdao.com/dictvoice?audio=asset&type=1)   | [🔊](https://dict.youdao.com/dictvoice?audio=asset&type=2)   |  |
 | project | [🔊](https://dict.youdao.com/dictvoice?audio=project&type=1)   | [🔊](https://dict.youdao.com/dictvoice?audio=project&type=2)   |  |
-| asset | [🔊](https://dict.youdao.com/dictvoice?audio=asset&type=1)   | [🔊](https://dict.youdao.com/dictvoice?audio=asset&type=2)   |  |
 | python | [🔊](https://dict.youdao.com/dictvoice?audio=python&type=1)   | [🔊](https://dict.youdao.com/dictvoice?audio=python&type=2)   |  |
-| json | [🔊](https://dict.youdao.com/dictvoice?audio=json&type=1)   | [🔊](https://dict.youdao.com/dictvoice?audio=json&type=2)   |  |
 | utility | [🔊](https://dict.youdao.com/dictvoice?audio=utility&type=1)   | [🔊](https://dict.youdao.com/dictvoice?audio=utility&type=2)   |  |
 | schedule | [🔊](https://dict.youdao.com/dictvoice?audio=schedule&type=1) | [🔊](https://dict.youdao.com/dictvoice?audio=schedule&type=2)  |  |
 | threshold | [🔊](https://dict.youdao.com/dictvoice?audio=threshold&type=1) | [🔊](https://dict.youdao.com/dictvoice?audio=threshold&type=2)  |  |
