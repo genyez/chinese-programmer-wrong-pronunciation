@@ -5,6 +5,7 @@
 | avatar | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=1)   | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=2)   |  |
 | asset | [🔊](https://dict.youdao.com/dictvoice?audio=asset&type=1)   | [🔊](https://dict.youdao.com/dictvoice?audio=asset&type=2)   |  |
 | resource | [🔊](https://dict.youdao.com/dictvoice?audio=resource&type=1)   | [🔊](https://dict.youdao.com/dictvoice?audio=resource&type=2)   |  |
+| utility | [🔊](https://dict.youdao.com/dictvoice?audio=utility&type=1)   | [🔊](https://dict.youdao.com/dictvoice?audio=utility&type=2)   |  |
 | schedule | [🔊](https://dict.youdao.com/dictvoice?audio=schedule&type=1) | [🔊](https://dict.youdao.com/dictvoice?audio=schedule&type=2)  |  |
 | threshold | [🔊](https://dict.youdao.com/dictvoice?audio=threshold&type=1) | [🔊](https://dict.youdao.com/dictvoice?audio=threshold&type=2)  |  |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  |
